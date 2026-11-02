@@ -1,0 +1,14 @@
+{
+  "selected_model": "Random Forest",
+  "compensation_method": "Batch-wise Standardization",
+  "reference_batch": 1,
+  "baseline_batch1_accuracy": 0.9662921348314607,
+  "avg_cross_batch_accuracy_before": 0.4660942701417102,
+  "avg_cross_batch_accuracy_after": 0.5654458500273702,
+  "improvement_pp": 9.935157988566006,
+  "std_before": 0.16510408182890346,
+  "std_after": 0.16105043845032918,
+  "p_ttest": 0.06154152586250823,
+  "p_wilcoxon": 0.0546875,
+  "p_mcnemar": 6.642478477386531e-56
+}

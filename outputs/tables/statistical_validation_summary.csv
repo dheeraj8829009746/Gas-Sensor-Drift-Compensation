@@ -1,0 +1,11 @@
+Measure,Result
+"Accuracy before (mean ± std, n=9 batches)",46.61 ± 16.51 %
+"Accuracy after (mean ± std, n=9 batches)",56.54 ± 16.11 %
+Mean improvement ± std,+9.94 ± 13.72 pp
+95% CI of improvement,"[-0.61, 20.48] pp"
+Paired t-test,"t = 2.173, p = 0.0615"
+Wilcoxon signed-rank,"W = 6.0, p = 0.0547"
+Cohen's d_z,0.724
+Batches improved,8 / 9
+McNemar exact test (13465 samples),"fixed 2931, broken 1846, p = 6.64e-56"
+Bootstrap 95% CI of accuracy gain,"+8.04 pp [7.13, 9.01]"

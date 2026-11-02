@@ -1,0 +1,11 @@
+Batch,Role,Train samples,Test samples
+1,Reference batch,356,89
+2,Cross-batch test only,0,1244
+3,Cross-batch test only,0,1586
+4,Cross-batch test only,0,161
+5,Cross-batch test only,0,197
+6,Cross-batch test only,0,2300
+7,Cross-batch test only,0,3613
+8,Cross-batch test only,0,294
+9,Cross-batch test only,0,470
+10,Cross-batch test only,0,3600
